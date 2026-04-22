@@ -11,7 +11,7 @@ const services = [
     description:
       "A deeply personal experience tailored to your lifestyle, body, and aspirations. Together we define your style identity and create a cohesive wardrobe that works for every occasion.",
     process: ["Style consultation & discovery", "Body & lifestyle analysis", "Curated outfit building", "Personal style guide"],
-    price: "From €350",
+    price: "From €150",
   },
   {
     id: "02",
@@ -21,7 +21,7 @@ const services = [
     description:
       "A thorough review of your existing wardrobe to identify what serves you and what doesn't. We'll create a clear picture of your style gaps and build a foundation for intentional dressing.",
     process: ["Full wardrobe review", "Keep / donate / repurpose sorting", "Gap analysis report", "Capsule wardrobe blueprint"],
-    price: "From €280",
+    price: "From €200",
   },
   {
     id: "03",
@@ -31,7 +31,7 @@ const services = [
     description:
       "Skip the overwhelm of endless options. I curate a pre-selected edit of pieces that align perfectly with your style profile, budget, and the gaps identified in your wardrobe.",
     process: ["Pre-shopping research", "Curated brand & piece selection", "In-store or online guided shopping", "Styling of new pieces"],
-    price: "From €200",
+    price: "From €30/hour",
   },
   {
     id: "04",
@@ -41,7 +41,7 @@ const services = [
     description:
       "From galas to garden parties, ensure you arrive dressed with intention and confidence. Every detail — from silhouette to accessories — is considered for maximum impact.",
     process: ["Event brief & mood board", "Outfit curation & sourcing", "Fitting & final approval", "Day-of styling support"],
-    price: "From €450",
+    price: "From €300",
   },
   {
     id: "05",
