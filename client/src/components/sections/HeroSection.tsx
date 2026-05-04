@@ -16,7 +16,7 @@ export default function HeroSection() {
       <div className="absolute inset-0">
         <img
           src={HERO_IMAGE}
-          alt="Élan Styling — editorial fashion photography"
+          alt="Dariya Styling"
           className="w-full h-full object-cover object-center"
         />
         {/* Warm dark overlay for text legibility */}
