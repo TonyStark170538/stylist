@@ -144,7 +144,7 @@ export default function PortfolioSection() {
             </h2>
           </div>
           <p className="font-body text-[oklch(0.52_0.015_55)] text-sm leading-relaxed max-w-xs">
-            A curated selection of transformations and editorial looks from recent client sessions.
+            “You can wear the same face and still become a different version of yourself.”
           </p>
         </div>
 

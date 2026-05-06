@@ -57,7 +57,7 @@ export default function ContactSection() {
             {/* Contact details */}
             <div className="space-y-5 mb-12">
               {[
-                { icon: Mail, label: "hello@dariyahelmle.com" },
+                { icon: Mail, label: "dariya.helmle@icloud.com" },
                 { icon: Phone, label: "+49 176 631 29 178" },
                 { icon: MapPin, label: "Paris · Germany · Milan · Worldwide" },
               ].map(({ icon: Icon, label }) => (
@@ -80,11 +80,11 @@ export default function ContactSection() {
               {[
                 {
                   name: "Instagram",
-                  href: "https://www.instagram.com/dariya_helmle_ukr?igsh=YjE3cmEyY3E4MzM4",
+                  href: "https://www.instagram.com/dariya_helmle?igsh=MXMydGVtcnU1bHN5aA==",
                 },
                 {
-                  name: "Pinterest",
-                  href: "https://www.pinterest.com/yourprofile",
+                  name: "WhatsApp",
+                  href: "https://wa.me/4917663129178",
                 },
                 {
                   name: "Telegram",
