@@ -35,7 +35,7 @@ export default function ContactSection() {
       return;
     }
     setSubmitted(true);
-    toast.success("Your inquiry has been sent. Sophie will be in touch within 24 hours.");
+    toast.success("Your inquiry has been sent. Dariya will be in touch within 24 hours.");
   };
 
   return (

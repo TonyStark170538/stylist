@@ -49,7 +49,7 @@ const services = [
     title: "Virtual Styling",
     subtitle: "Global Access",
     description:
-      "The full Élan Styling experience, delivered remotely. Ideal for clients worldwide, virtual sessions offer the same level of personal attention and expertise — wherever you are.",
+      "The full Styling experience, delivered remotely. Ideal for clients worldwide, virtual sessions offer the same level of personal attention and expertise — wherever you are.",
     process: ["Video consultation", "Digital style guide", "Online shopping curation", "Follow-up support"],
     price: "From €180",
   },
