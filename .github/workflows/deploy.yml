@@ -20,10 +20,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: npm install --legacy-peer-deps
-      - run: npm run build
+      - run: cd client && npm install --legacy-peer-deps
+      - run: cd client && npm run build
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: ./dist/public
+          path: ./client/dist/public
       - id: deployment
         uses: actions/deploy-pages@v4
