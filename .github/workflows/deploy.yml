@@ -22,6 +22,7 @@ jobs:
           node-version: 22
       - run: cd client && npm install --legacy-peer-deps
       - run: cd client && npm run build
+      - run: find . -name "index.html" -not -path "*/node_modules/*"
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./client/dist/public
